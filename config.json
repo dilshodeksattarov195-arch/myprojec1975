@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpalculate",
+        "uuid": 5059950,
+        "checksum": "l4fznj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
